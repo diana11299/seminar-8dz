@@ -1,0 +1,14 @@
+C:\Users\HustlER\Desktop\seminar 8dz\dz\bin\Debug\net8.0\dz.exe
+C:\Users\HustlER\Desktop\seminar 8dz\dz\bin\Debug\net8.0\dz.deps.json
+C:\Users\HustlER\Desktop\seminar 8dz\dz\bin\Debug\net8.0\dz.runtimeconfig.json
+C:\Users\HustlER\Desktop\seminar 8dz\dz\bin\Debug\net8.0\dz.dll
+C:\Users\HustlER\Desktop\seminar 8dz\dz\bin\Debug\net8.0\dz.pdb
+C:\Users\HustlER\Desktop\seminar 8dz\dz\obj\Debug\net8.0\dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HustlER\Desktop\seminar 8dz\dz\obj\Debug\net8.0\dz.AssemblyInfoInputs.cache
+C:\Users\HustlER\Desktop\seminar 8dz\dz\obj\Debug\net8.0\dz.AssemblyInfo.cs
+C:\Users\HustlER\Desktop\seminar 8dz\dz\obj\Debug\net8.0\dz.csproj.CoreCompileInputs.cache
+C:\Users\HustlER\Desktop\seminar 8dz\dz\obj\Debug\net8.0\dz.dll
+C:\Users\HustlER\Desktop\seminar 8dz\dz\obj\Debug\net8.0\refint\dz.dll
+C:\Users\HustlER\Desktop\seminar 8dz\dz\obj\Debug\net8.0\dz.pdb
+C:\Users\HustlER\Desktop\seminar 8dz\dz\obj\Debug\net8.0\dz.genruntimeconfig.cache
+C:\Users\HustlER\Desktop\seminar 8dz\dz\obj\Debug\net8.0\ref\dz.dll
